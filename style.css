@@ -91,3 +91,12 @@ nav.active .icon .line1{
 nav.active .icon .line2{
     transform: rotate(765deg) translateY(-5.5px);
 }
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #044caa;
+    color: rgb(255, 255, 255);
+    text-align: center;
+ }
